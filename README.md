@@ -5,6 +5,7 @@
 - You can play with computer in One Player (No AI so chances of your win is much more)
 - You can play with your friend in Two Player.
 - Added a button to start a new Game.
+- Display the current score in front of the player name.
 - Both have Home button for the Index page.
 
 
@@ -20,4 +21,5 @@ https://ritika21-code.github.io/tic-tac-toe/#/
  3. Used React Hooks to manage the state of the application.
  4. Used React Router to connect the pages of the application.
  5. For the winning state- it shows the Winner's name.
- 6. For the draw state - it shows "It's a Draw".
+ 6. Added a current score state which updates after any player win.
+ 7. For the draw state - it shows "It's a Draw".
