@@ -4,7 +4,7 @@
 - Home page with two option- one player and two player.
 - You can play with computer in One Player (No AI so chances of your win is much more)
 - You can play with your friend in Two Player.
-- Added button to start a new Game.
+- Added a button to start a new Game.
 - Both have Home button for the Index page.
 
 
